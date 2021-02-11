@@ -7,4 +7,4 @@ public class HelloWorld { //Class declaration
 		System.out.println("Hello World"); //Java printing and/or output method
 	}
 
-}
+} 
