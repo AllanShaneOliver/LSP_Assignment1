@@ -1,6 +1,6 @@
 package org.howard.edu.lsp.assignment2.combination; //source code package
 
-import java.util.Arrays;       
+import java.util.Arrays;      
 import java.util.ArrayList;
 /**
  * Source code file, includes a class to calculate combinations 
