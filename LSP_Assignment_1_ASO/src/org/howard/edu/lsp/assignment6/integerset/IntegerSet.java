@@ -1,4 +1,4 @@
-package org.howard.edu.lsp.assignment6.integerset;
+package org.howard.edu.lsp.assignment6.integerset; //Same as Assignment 4.
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,5 +1,5 @@
-package org.howard.edu.lsp.assignment6.integerset;
-/**
+package org.howard.edu.lsp.assignment6.integerset; //Same as Assignment 4.
+/** 
  * Custom IntegerSetException class inherits from the Exception class. 
  * Throws custom IntegerSetException error if set length is less than or equal to zero.
  */

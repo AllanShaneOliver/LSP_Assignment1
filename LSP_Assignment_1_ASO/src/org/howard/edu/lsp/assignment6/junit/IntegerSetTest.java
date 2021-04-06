@@ -10,10 +10,10 @@ import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 
 /**
+ * @author shaneoliver
  * Class of JUnit test cases to test my IntegerSet class and implementation file.
  * Tests all methods written in my IntegerSet class by observing how each method
  * alters the contents of three given (defined below) IntegerSet class ArrayLists.
- * @author shaneoliver
  */
 public class IntegerSetTest {
 	IntegerSet set1 = new IntegerSet(); 
